@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning fullstack engineering
 - 📫 How to reach me sjswan13@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am an avid trad climber, skier, paraglider and backpacking adventurer! I also love to dance. 
+- ⚡ Fun fact: I am an avid trad climber, skier, paraglider and backpacking adventurer! I also love ballroom dancing. 
 
 <!---
 sjswan13/sjswan13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
