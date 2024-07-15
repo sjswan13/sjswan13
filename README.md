@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sara Swan
-- 👀 I’m interested in front end engineering
-- 🌱 I’m currently learning fullstack engineering
-- 📫 How to reach me sjswan13@gmail.com
+- 👀 I’m interested in front end engineering & UX/UI design
+- 🌱 I graduated from my fullstack bootcamp in 2024 June
+- 📫 How to reach me: sjswan13@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am an avid trad climber, skier, paraglider and backpacking adventurer! I also love ballroom dancing. 
 
